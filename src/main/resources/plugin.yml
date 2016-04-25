@@ -1,0 +1,7 @@
+name: BreakMoney
+main: com.haniokasai.nukkit.BreakMoney.Main
+version: 0.0.1
+api: ["1.0.0"]
+depend: [EconomyAPI]
+author: hanioakasai
+description: BreakMoney
